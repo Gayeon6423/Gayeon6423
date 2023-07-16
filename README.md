@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm major in Economics and AI BigData Management in Kookmin University!
 <!--
 **Gayeon6423/Gayeon6423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
