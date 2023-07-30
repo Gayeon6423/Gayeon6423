@@ -66,7 +66,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2022.07|[데이터분석학회 D&A] 프로젝트|신용카드 대금 연체 정도 예측(CatBoost)|ML,Data Analystics|3등|<a href="">Link</a>|
 |2022.07|[머신러닝] 전공 프로젝트|CatBoostRegressor Model기반 Salary예측|ML,Data Analystics|A+(1등)|<a href="">Link</a>|
 |2022.05|[데이터분석학회 D&A] 프로젝트 |서울특별시 자치구별 학구열 분석&서울런 교육 사업|ML,Data Analystics|3등|<a href="">Link</a>|
-|2022.03|[[코딩동아리 KCC] 프로젝트] 공모전|Moving Snake Game 프로젝트|Algorithsm|-|<a href="">Link</a>|
+|2022.03|[코딩동아리 KCC] 프로젝트] 공모전|Moving Snake Game 프로젝트|Algorithsm|-|<a href="">Link</a>|
 |2022.03|[KB증권] 공모전|Gig-tech(긱 워커들을 위한 급여관리 서비스)|Financial|참가|<a href="">Link</a>|
 |2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_코스모신소재|Financial|동아리 발표|<a href="">Link</a>|
 |2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_송원산업|Financial|동아리 발표|<a href="">Link</a>|
