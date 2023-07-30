@@ -51,7 +51,28 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023.07|[산업통상자원부] 대회|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="">Link</a>|
 |2023.06|[딥러닝]전공 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|ing|<a href="">Link</a>|
 |2023.07|[신한 AI Challenge] 대회|NLP를 활용한 산업분석 기반 다이렉트 인덱싱|ML, NLP|상위 20%|<a href="">Link</a>|
+|2023.06|[텍스트데이터분석] 전공 프로젝트|부동산&투자 키워드 기반 뉴스 기사 텍스트 분석|NLP, Data Ananlystics|A+|<a href="">Link</a>|
+|2023.05|[Adam] 개인 프로젝트|Credit score classification(MultiClassifier)|ML, NLP|-|<a href="">Link</a>|
+|2023.04|[FIND-A] 학회 개인 프로젝트|Empowering Business with Data Analytics for Actionable Insights|Financial,ML,Data Analystics|팀 1등|<a href="">Link</a>|
+|2023.04|[Adam] 개인 프로젝트|일상 대화 데이터 바탕 주제 분류(json data, BOW, MultiClassifier)|ML,NLP|동아리 발표 진행|<a href="">Link</a>|
+|2023.04|[Adam] 개인 프로젝트|IDMB 영화평(WordVectorizer, TFdifVectorizer, BOW)|ML,NLP|-|<a href="">Link</a>|
+|2023.04|[FIND-A] 학회 개인 프로젝트|게임 플레이 이력 바탕_이상유저 분류(Classifier)|ML,Data Analystics|팀 1등|<a href="">Link</a>|
+|2023.01|개인 프로젝트|네이버 뉴스 기사 카테고리 분류(스크래핑, BOW, Classifier)||-|<a href="">Link</a>|
+|2023.12|[FIND-A] 학회 개인 프로젝트|서울시 자치구별 상권 동향 분석(테블로 활용)|Visualization,Data Analystics|세미나 발표 진행|<a href="">Link</a>|
+|2022.12|[Adam] 개인 프로젝트|KOSPI 데이터 분석(CPAM)|Financial,ML|-|<a href="">Link</a>|
+|2022.11|[회귀분석] 전공 프로젝트|1인 가구의 생활습관에 따른 건강 분석(회귀분석)|Statistics,Data Analystics|A+|<a href="">Link</a>|
+|2022.07|[데이터분석학회 D&A] 프로젝트|신용카드 대금 연체 정도 예측(CatBoost)|ML,Data Analystics|3등|<a href="">Link</a>|
+|2022.07|[머신러닝] 전공 프로젝트|CatBoostRegressor Model기반 Salary예측|ML,Data Analystics|A+(1등)|<a href="">Link</a>|
+|2022.05|[데이터분석학회 D&A] 프로젝트 |서울특별시 자치구별 학구열 분석&서울런 교육 사업|ML,Data Analystics|3등|<a href="">Link</a>|
+|2022.03|[[코딩동아리 KCC] 프로젝트] 공모전|Moving Snake Game 프로젝트|Algorithsm|-|<a href="">Link</a>|
+|2022.03|[KB증권] 공모전|Gig-tech(긱 워커들을 위한 급여관리 서비스)|Financial|참가|<a href="">Link</a>|
+|2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_코스모신소재|Financial|동아리 발표|<a href="">Link</a>|
+|2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_송원산업|Financial|동아리 발표|<a href="">Link</a>|
+|2021.06|[금융감독원] 공모전|다문화 금융교육어플(멀티플)|Financial|참가|<a href="">Link</a>|
 
+|[교내 동아리] KCC|Snake Game|PYGAME|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20snake%20game">Link</a>|
+
+<br>
 
 
 
