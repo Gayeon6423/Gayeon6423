@@ -29,6 +29,8 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023|토익 750|한국 TOEIC 위원회|
 |2022|컴퓨터활용능력 1급|대한상공회의소|
 
+<br>
+
 ## 🏆 Contest
 |Date|Administration|Contest Name|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +46,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 
 <br>
 
-## 👨🏻‍💻 Project
+## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2023.07|[통계청]대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한 건설 경기 예측 모델 개선|Financial,ML,Data Analytics|ing|<a href="">Link</a>|
@@ -69,8 +71,6 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_코스모신소재|Financial|동아리 발표|<a href="">Link</a>|
 |2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_송원산업|Financial|동아리 발표|<a href="">Link</a>|
 |2021.06|[금융감독원] 공모전|다문화 금융교육어플(멀티플)|Financial|참가|<a href="">Link</a>|
-
-|[교내 동아리] KCC|Snake Game|PYGAME|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20snake%20game">Link</a>|
 
 <br>
 
