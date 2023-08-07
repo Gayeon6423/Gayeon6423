@@ -34,7 +34,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 🏆 Contest
 |Date|Administration|Contest Name|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2023.07|통계청|통계데이터 활용대회|-ing|<a href="">Link</a>|
+|2023.07|통계청|통계데이터 활용대회|참가|<a href="">Link</a>|
 |2023.07|산업통상자원부|공공데이터 활용 비즈니스 아이디어 공모전|참가|<a href="">Link</a>|
 |2023.06|신한AI, 데이콘|보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회|Top 20%|<a href="">Link</a>|
 |2022.08|전북창조경제혁신센터|제2회 금융 데이터 활용 경진대회|본선 진출|<a href="">Link</a>|
@@ -49,9 +49,9 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2023.07|[통계청]대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한 건설 경기 예측 모델 개선|Financial,ML,Data Analytics|ing|<a href="">Link</a>|
-|2023.07|[산업통상자원부] 대회|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="">Link</a>|
-|2023.06|[딥러닝]전공 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|ing|<a href="">Link</a>|
+|2023.07|[통계청]대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한 건설 경기 예측 모델 개선|Financial,ML,Data Analytics|ing|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%EC%9D%98%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8B%A4:%20%ED%86%B5%EA%B3%84%20%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EC%84%A0">Link</a>|
+|2023.07|[산업통상자원부] 대회|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EB%89%B4%EC%8A%A4%20%EA%B8%B0%EC%82%AC%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%9E%90%EA%B8%B0%ED%9A%8C%EA%B7%80%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80-%ED%92%88%EB%AA%A9%20%EA%B7%B8%EB%A3%B9%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C">Link</a>|
+|2023.06|[딥러닝]전공 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|ing|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%EC%99%80%20%EA%B2%BD%EB%A1%9C%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%B6%A9%EB%8F%8C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8">Link</a>|
 |2023.07|[신한 AI Challenge] 대회|NLP를 활용한 산업분석 기반 다이렉트 인덱싱|ML, NLP|상위 20%|<a href="">Link</a>|
 |2023.06|[텍스트데이터분석] 전공 프로젝트|부동산&투자 키워드 기반 뉴스 기사 텍스트 분석|NLP, Data Ananlystics|A+|<a href="">Link</a>|
 |2023.05|[Adam] 개인 프로젝트|Credit score classification(MultiClassifier)|ML, NLP|-|<a href="">Link</a>|
@@ -62,7 +62,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023.01|개인 프로젝트|네이버 뉴스 기사 카테고리 분류(스크래핑, BOW, Classifier)||-|<a href="">Link</a>|
 |2023.12|[FIND-A] 학회 개인 프로젝트|서울시 자치구별 상권 동향 분석(테블로 활용)|Visualization,Data Analystics|세미나 발표 진행|<a href="">Link</a>|
 |2022.12|[Adam] 개인 프로젝트|KOSPI 데이터 분석(CPAM)|Financial,ML|-|<a href="">Link</a>|
-|2022.11|[회귀분석] 전공 프로젝트|1인 가구의 생활습관에 따른 건강 분석(회귀분석)|Statistics,Data Analystics|A+|<a href="">Link</a>|
+|2022.11|[회귀분석] 전공 프로젝트|1인 가구의 생활습관에 따른 건강 분석(회귀분석)|Statistics,Data Analystics|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/1%EC%9D%B8%20%EA%B0%80%EA%B5%AC%EC%9D%98%20%EC%83%9D%ED%99%9C%EC%8A%B5%EA%B4%80%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B1%B4%EA%B0%95%20%EB%B6%84%EC%84%9D(%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)">Link</a>|
 |2022.07|[데이터분석학회 D&A] 프로젝트|신용카드 대금 연체 정도 예측(CatBoost)|ML,Data Analystics|3등|<a href="">Link</a>|
 |2022.07|[머신러닝] 전공 프로젝트|CatBoostRegressor Model기반 Salary예측|ML,Data Analystics|A+(1등)|<a href="">Link</a>|
 |2022.05|[데이터분석학회 D&A] 프로젝트 |서울특별시 자치구별 학구열 분석&서울런 교육 사업|ML,Data Analystics|3등|<a href="">Link</a>|
