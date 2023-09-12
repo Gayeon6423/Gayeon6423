@@ -90,4 +90,4 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://www.notion.so/8390688429554912942355155e35855b?pvs=4">Link</a>|
 |2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://www.notion.so/LG-Aimers-3-e6dd591641414c649cbd9eb6ab0d5c76?pvs=4">Link</a>|
 
-
+<br>
