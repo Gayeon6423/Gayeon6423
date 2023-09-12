@@ -34,6 +34,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 🏆 Contest
 |Date|Administration|Contest Name|Award|
 |:---:|:---:|:---:|:---:|
+|2023.08|LG AI Research|온라인 채널 제품판매량 예측 AI해커톤|Top 20%|
 |2023.07|통계청|통계데이터 활용대회|참가|
 |2023.07|산업통상자원부|공공데이터 활용 비즈니스 아이디어 공모전|참가|
 |2023.06|신한AI, 데이콘|보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회|Top 20%|
@@ -76,7 +77,16 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 
 <br>
 
-
-
+## 📚 Study
+|Date|Content|Tags|Study Method|Link|
+|2022||HandOn_Machine Learning|ML|‘핸즈온 머신러닝’ 교재, 스터디|<a href="https://www.notion.so/HandOn_Machine-Learning-41b7c3cccb2c42f9a772254df9723b06?pvs=4">Link</a>|
+|2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://www.notion.so/WikiDocs-c944bcad4f334fd79a6e8c66014a0848?pvs=4">Link</a>|
+|2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
+|2023|Nautral Language Process|NLP|‘텍스트데이터분석’ 수업내용|<a href="https://www.notion.so/Nautral-Language-Process-3d39607939ed46b88555acb26e2235ed?pvs=4">Link</a>|
+|2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘딥러닝 파이토치’ 교재|<a href="https://www.notion.so/Computer-Vision-7e0ff7c396564827aa2eb96e879c6cb8?pvs=4">Link</a>|
+|2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://www.notion.so/SQL-f232f4c964034be3bb996a57c47746f9?pvs=4">Link</a>|
+|2023|FIND-A 알고리즘 공부|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://www.notion.so/FIND-A-a4f3a2d0378e4c409d822ece7d3a346b?pvs=4">Link</a>|
+|2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://www.notion.so/8390688429554912942355155e35855b?pvs=4">Link</a>|
+|2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://www.notion.so/LG-Aimers-3-e6dd591641414c649cbd9eb6ab0d5c76?pvs=4">Link</a>|
 
 
