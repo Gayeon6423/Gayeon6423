@@ -89,5 +89,6 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023|FIND-A 알고리즘 공부|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://www.notion.so/FIND-A-a4f3a2d0378e4c409d822ece7d3a346b?pvs=4">Link</a>|
 |2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://www.notion.so/8390688429554912942355155e35855b?pvs=4">Link</a>|
 |2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://www.notion.so/LG-Aimers-3-e6dd591641414c649cbd9eb6ab0d5c76?pvs=4">Link</a>|
+|2023|딥러닝 자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://www.notion.so/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
 
 <br>
