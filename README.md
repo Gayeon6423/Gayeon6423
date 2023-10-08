@@ -82,7 +82,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |:---:|:---:|:---:|:---:|:---:|
 |2022|HandOn_Machine Learning|ML|‘핸즈온 머신러닝’교재, 스터디|<a href="https://www.notion.so/HandOn_Machine-Learning-41b7c3cccb2c42f9a772254df9723b06?pvs=4">Link</a>|
 |2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://www.notion.so/WikiDocs-c944bcad4f334fd79a6e8c66014a0848?pvs=4">Link</a>|
-|2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
+|2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
 |2023|Nautral Language Process|NLP|‘텍스트데이터분석’ 수업내용|<a href="https://www.notion.so/Nautral-Language-Process-3d39607939ed46b88555acb26e2235ed?pvs=4">Link</a>|
 |2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘딥러닝 파이토치’ 교재|<a href="https://www.notion.so/Computer-Vision-7e0ff7c396564827aa2eb96e879c6cb8?pvs=4">Link</a>|
 |2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://www.notion.so/SQL-f232f4c964034be3bb996a57c47746f9?pvs=4">Link</a>|
