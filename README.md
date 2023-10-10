@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm major in Economics and AI BigData Management in Kookmin University!
 
-I am interestid in ML/DL & Statistic & Finincial Engineering & Natural Preprocessing.
+I am interestid in ML/DL & Time Series Forecasting & Natural Preprocessing & Finincial Engineering.
 
 I am working as a student researcher with 'SSK Climate Change Narrative Analysis and Korea's Future'.
 
