@@ -37,6 +37,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 🏆 Contest
 |Date|Administration|Contest Name|Award|
 |:---:|:---:|:---:|:---:|
+|2023.09|과학기술정보통신부|2023빅콘테스트|ING|
 |2023.08|LG AI Research|온라인 채널 제품판매량 예측 AI해커톤|Top 20%|
 |2023.07|통계청|통계데이터 활용대회|참가|
 |2023.07|산업통상자원부|공공데이터 활용 비즈니스 아이디어 공모전|참가|
@@ -53,6 +54,7 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.09|[2023빅콘테스트] 공모전|상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용 방안 제시|Financial,ML,Data Analytics,Visualize|ING|<a href="https://github.com/Gayeon6423/2023BigContest">Link</a>|
 |2023.07|[통계청]대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한 건설 경기 예측 모델 개선|Financial,ML,Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%EC%9D%98%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8B%A4:%20%ED%86%B5%EA%B3%84%20%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EC%84%A0">Link</a>|
 |2023.07|[산업통상자원부] 대회|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EB%89%B4%EC%8A%A4%20%EA%B8%B0%EC%82%AC%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%9E%90%EA%B8%B0%ED%9A%8C%EA%B7%80%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80-%ED%92%88%EB%AA%A9%20%EA%B7%B8%EB%A3%B9%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C">Link</a>|
 |2023.06|[딥러닝]전공 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%EC%99%80%20%EA%B2%BD%EB%A1%9C%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%B6%A9%EB%8F%8C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8">Link</a>|
