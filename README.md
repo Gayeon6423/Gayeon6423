@@ -79,7 +79,9 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 |2023|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|
 |2023|토익 750|한국 TOEIC 위원회|
 |2022|컴퓨터활용능력 1급|대한상공회의소|
+
 <br>
+
 ## 📚 Study
 |Date|Content|Tags|Study Method|Link|
 |:---:|:---:|:---:|:---:|:---:|
