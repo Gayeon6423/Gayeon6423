@@ -44,8 +44,11 @@ I am working as a student researcher with 'SSK Climate Change Narrative Analysis
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2023.10|[한국자원경제학회]제19회 논문경진대회|온실가스 데이터와 연계한 지역 간 제조업 자원 배분 효율성 분석|Economic,Statics|ING|<a href="https://github.com/Gayeon6423/Analysis-of-Resource-Allocation-Efficiency-in-Manufacturing-Industry-Linked-to-Greenhouse-Gas-Data">Link</a>|
-|2023.09|[2023빅콘테스트] 공모전|상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용 방안 제시|Financial,ML,Data Analytics,Visualize|ING|<a href="https://github.com/Gayeon6423/2023BigContest">Link</a>|
+|2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="">Link</a>|
+|2023.12|[산업AI:캡스톤 디자인] 논문 작성|금융 특화 감정분석 모델과  시계열 예측 모델을 활용한  코스피 지수 예측|Financial, DL, NLP|논문 투고|<a href="">Link</a>|
+|2023.11|[데이터분석학회 D&A] 프로젝트|주식 매매를 위한 Policy-based Reinforce Agent 개발|Financial, RL, DL|참가|<a href="">Link</a>|
+|2023.10|[한국자원경제학회]제19회 논문경진대회|온실가스 데이터와 연계한 지역 간 제조업 자원 배분 효율성 분석|Economic,Statics|장려상|<a href="https://github.com/Gayeon6423/Analysis-of-Resource-Allocation-Efficiency-in-Manufacturing-Industry-Linked-to-Greenhouse-Gas-Data">Link</a>|
+|2023.09|[2023빅콘테스트] 공모전|상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용 방안 제시|Financial,ML,Data Analytics,Visualize|참가|<a href="https://github.com/Gayeon6423/2023BigContest">Link</a>|
 |2023.07|[산업통상자원부] 대회|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EB%89%B4%EC%8A%A4%20%EA%B8%B0%EC%82%AC%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%9E%90%EA%B8%B0%ED%9A%8C%EA%B7%80%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80-%ED%92%88%EB%AA%A9%20%EA%B7%B8%EB%A3%B9%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C">Link</a>|
 |2023.06|[딥러닝]전공 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%EC%99%80%20%EA%B2%BD%EB%A1%9C%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%B6%A9%EB%8F%8C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8">Link</a>|
 |2023.07|[신한 AI Challenge] 대회|NLP를 활용한 산업분석 기반 다이렉트 인덱싱|ML, NLP|상위 20%|<a href="https://github.com/Gayeon6423/Project/tree/main/NLP%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%82%B0%EC%97%85%EB%B6%84%EC%84%9D%20%EA%B8%B0%EB%B0%98%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%20%EC%9D%B8%EB%8D%B1%EC%8B%B1">Link</a>|
