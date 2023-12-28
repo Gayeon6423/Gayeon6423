@@ -2,6 +2,7 @@
 Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist**.
 
 I'm going to graduate from Kookmin University in February 2024, major in **Economics** and **AI BigData & Management**.
+
 I'm going to study for a masters' degree in the department of **Artificial Intelligence** at Sogang University.
 
 I am working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
