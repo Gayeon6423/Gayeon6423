@@ -1,10 +1,12 @@
 ## Hi there 👋
-I'm major in Economics and AI BigData Management in Kookmin University!
+Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist**.
 
-I am interestid in ML/DL & Time Series Forecasting & Natural Language Preprocessing & Financial Engineering.
+I'm going to graduate from Kookmin University in February 2024, major in **Economics** and **AI BigData & Management**.
+I'm going to study for a masters' degree in the department of **Artificial Intelligence** at Sogang University.
 
-I am working as a student researcher with 'SSK Climate Change Narrative Analysis and Korea's Future'.
+I am working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
+I am interestid in **Time Series Forecasting** , **Natural Language Preprocessing** , **Financial Engineering**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGayeon6423%2Fhit-counter)](https://hits.seeyoufarm.com)           
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayeon6423&show_icons=true&theme=radical)
