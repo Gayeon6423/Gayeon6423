@@ -92,13 +92,13 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |Date|Content|Tags|Study Method|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |2022|HandOn_Machine Learning|ML|‘핸즈온 머신러닝’교재, 스터디|<a href="https://necessary-court-22a.notion.site/Handson_Machine-Learning-133630eb846e4271b1b2c4bdb2ce1523?pvs=4">Link</a>|
-|2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://www.notion.so/WikiDocs-c944bcad4f334fd79a6e8c66014a0848?pvs=4">Link</a>|
+|2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://necessary-court-22a.notion.site/6a4af02386d9499e80e6f7e6bf528037?pvs=4">Link</a>|
 |2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
-|2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://www.notion.so/Computer-Vision-7e0ff7c396564827aa2eb96e879c6cb8?pvs=4">Link</a>|
-|2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://www.notion.so/SQL-f232f4c964034be3bb996a57c47746f9?pvs=4">Link</a>|
-|2023|FIND-A 알고리즘 공부|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://www.notion.so/FIND-A-a4f3a2d0378e4c409d822ece7d3a346b?pvs=4">Link</a>|
-|2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://www.notion.so/8390688429554912942355155e35855b?pvs=4">Link</a>|
-|2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://www.notion.so/LG-Aimers-3-e6dd591641414c649cbd9eb6ab0d5c76?pvs=4">Link</a>|
-|2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://www.notion.so/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
+|2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://necessary-court-22a.notion.site/Computer-Vision-86e3442001824bc5847d5cf9b9622838?pvs=4">Link</a>|
+|2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://necessary-court-22a.notion.site/SQL-90f2346cdf1d4b1184cc5f36bad3e30f?pvs=4">Link</a>|
+|2023|FIND-A 알고리즘 스터디|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://necessary-court-22a.notion.site/FIND-A-8a3a49f046aa4b2eb093dcf22213843f?pvs=4">Link</a>|
+|2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://necessary-court-22a.notion.site/9a71db4771c34c258f36a195909e34a4?pvs=4">Link</a>|
+|2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
+|2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
 
 <br>
