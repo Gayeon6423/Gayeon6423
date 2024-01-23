@@ -49,7 +49,7 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="">Link</a>|
+|2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="https://github.com/Gayeon6423/TAVE-Image_Captioning/tree/main?tab=readme-ov-file">Link</a>|
 |2023.12|[산업AI:캡스톤 디자인] 논문 작성|금융 특화 감정분석 모델과  시계열 예측 모델을 활용한  코스피 지수 예측|Financial, DL, NLP|논문 투고|<a href="">Link</a>|
 |2023.11|[데이터분석학회 D&A] 프로젝트|주식 매매를 위한 Policy-based Reinforce Agent 개발|Financial, RL, DL|참가|<a href="">Link</a>|
 |2023.10|[한국자원경제학회]제19회 논문경진대회|온실가스 데이터와 연계한 지역 간 제조업 자원 배분 효율성 분석|Economic,Statics|장려상|<a href="https://github.com/Gayeon6423/Analysis-of-Resource-Allocation-Efficiency-in-Manufacturing-Industry-Linked-to-Greenhouse-Gas-Data">Link</a>|
