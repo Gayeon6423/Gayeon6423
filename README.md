@@ -1,5 +1,5 @@
-## Hi there 👋
-Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist**.
+## Hi there 😊👋
+Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist 🔥🔥**.
 
 I obtained a bachelor's degree in department of **Economics** and **AI BigData & Management** at Kookmin University in February 2024.
 
