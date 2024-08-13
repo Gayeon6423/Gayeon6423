@@ -45,6 +45,18 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 
 <br>
 
+## 📜 Paper Review
+|Paper Review|
+|:---:|
+|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+## 📜 Published Paper
+|Paper Title|Date|Publication venue|Key Word|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|KIIE:Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="">Link</a>|
+
+<br>
+
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -92,18 +104,6 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2023|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|
 |2023|토익 750|한국 TOEIC 위원회|
 |2022|컴퓨터활용능력 1급|대한상공회의소|
-
-<br>
-
-## 📜 Paper Review
-|Paper Review|
-|:---:|
-|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
-
-## 📜 Published Paper
-|Paper Title|Date|Publication venue|Key Word|Link|
-|:---:|:---:|:---:|:---:|:---:|
-|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|KIIE:Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="">Link</a>|
 
 <br>
 
