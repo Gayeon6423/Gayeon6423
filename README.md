@@ -93,6 +93,13 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 
 <br>
 
+## 📜 Paper Review
+|Paper Review|Link|
+|:---:|:---:|
+|Link|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+<br>
+
 ## 📚 Study
 |Date|Content|Tags|Study Method|Link|
 |:---:|:---:|:---:|:---:|:---:|
@@ -105,11 +112,5 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://necessary-court-22a.notion.site/9a71db4771c34c258f36a195909e34a4?pvs=4">Link</a>|
 |2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
 |2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
-
-<br>
-
-## 📜 Paper Review
-|:---:|:---:|
-|Link|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
 
 <br>
