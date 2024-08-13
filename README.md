@@ -48,8 +48,8 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2024.06|[기초자연어처리] 수업 프로젝트|Improvement of RAG performance by proposing a novel idea|NLP|상위 17%|<a href="">Link</a>|
-|2024.06|[데이터마이닝] 수업 프로젝트|Predicting Daily Emotional Distribution and Mental Health Index via LLM and Further Transfer Learning|ML, NLP, Time Series|A+|<a href="">Link</a>|
+|2024.06|[기초자연어처리] 수업 프로젝트|Improvement of RAG performance by proposing a novel idea|NLP|상위 17%|<a href="https://github.com/Gayeon6423/Project/tree/main/Improvement%20of%20RAG%20performance%20by%20proposing%20a%20novel%20idea">Link</a>|
+|2024.06|[데이터마이닝] 수업 프로젝트|Predicting Daily Emotional Distribution and Mental Health Index via LLM and Further Transfer Learning|ML, NLP, Time Series|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/Predicting%20Daily%20Emotional%20Distribution%20and%20Mental%20Health%20Index%20via%20LLM%20and%20Further%20Transfer%20Learning">Link</a>|
 |2024.03~|[보건복지부] 연구 과제 |국민 정신건강 트렌드 모니터링 관리 플랫폼 개발|ML,NLP,Medical|연구원|<a href="">Link</a>|
 |2024.02|[LG Research]LG Aimers 4기 Hackton|MQL 데이터 기반 B2B영업 기회 창출 예측 모델 개발|ML, Time Series|참여|<a href="https://github.com/Gayeon6423/LG-Aimers-4th-Quad">Link</a>|
 |2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="https://github.com/Gayeon6423/TAVE-Image_Captioning/tree/main?tab=readme-ov-file">Link</a>|
