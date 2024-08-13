@@ -110,7 +110,7 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://necessary-court-22a.notion.site/SQL-90f2346cdf1d4b1184cc5f36bad3e30f?pvs=4">Link</a>|
 |2023|FIND-A 알고리즘 스터디|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://necessary-court-22a.notion.site/FIND-A-8a3a49f046aa4b2eb093dcf22213843f?pvs=4">Link</a>|
 |2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://necessary-court-22a.notion.site/9a71db4771c34c258f36a195909e34a4?pvs=4">Link</a>|
-|2023|LG Aimers 3기|ML,DL|AI Essential Course & LG AI Hackathon|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
+|2023|LG Aimers 3기|ML,DL|AI Essential Course|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
 |2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
 
 <br>
