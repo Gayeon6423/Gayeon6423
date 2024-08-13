@@ -107,3 +107,8 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
 
 <br>
+
+## 📜 Paper Review
+|Link|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+<br>
