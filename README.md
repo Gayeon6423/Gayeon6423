@@ -94,9 +94,9 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 <br>
 
 ## 📜 Paper Review
-|Paper Review|Link|
-|:---:|:---:|
-|Link|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+|Paper Review|
+|:---:|
+|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
 
 <br>
 
