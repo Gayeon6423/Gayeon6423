@@ -53,13 +53,12 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2024.03~|[보건복지부] 연구 과제|국민 정신건강 트렌드 모니터링 관리 플랫폼 개발|ML,NLP,Medical|연구원|<a href="">Link</a>|
 |2024.02|[LG Research]LG Aimers 4기 Hackton|MQL 데이터 기반 B2B영업 기회 창출 예측 모델 개발|ML, Time Series|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/MQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20B2B%20%EC%98%81%EC%97%85%EA%B8%B0%ED%9A%8C%20%EC%B0%BD%EC%B6%9C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EB%B0%9C">Link</a>|
 |2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="https://github.com/Gayeon6423/TAVE-Image_Captioning/tree/main?tab=readme-ov-file">Link</a>|
-|2023.12|[논문 게재] 대한산업공학회지|금융 특화 감정분석 모델과  시계열 예측 모델을 활용한  코스피 지수 예측|Financial, DL, NLP|대한산업공학회지 논문 개제|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
+|2023.12|[논문 게재] 대한산업공학회지|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|Financial, DL, NLP|대한산업공학회지 논문 개제|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 |2023.11|[데이터분석학회 D&A Conference Session]|주식 매매를 위한 Policy-based Reinforce Agent 개발|Financial, RL, DL|참가|<a href="https://github.com/zzakjista/kspm">Link</a>|
 |2023.10|[한국자원경제학회]제19회 논문경진대회|온실가스 데이터와 연계한 지역 간 제조업 자원 배분 효율성 분석|Economic,Statics|장려상|<a href="https://github.com/Gayeon6423/Project/tree/main/%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%A7%80%EC%97%AD%20%EA%B0%84%20%EC%A0%9C%EC%A1%B0%EC%97%85%20%EC%9E%90%EC%9B%90%20%EB%B0%B0%EB%B6%84%20%ED%9A%A8%EC%9C%A8%EC%84%B1%20%EB%B6%84%EC%84%9D">Link</a>|
 |2023.09|[과학기술정보통신부] 2023 빅콘테스트|상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용 방안 제시|Financial,ML,Data Analytics,Visualize|참가|<a href="https://github.com/Gayeon6423/2023BigContest">Link</a>|
 |2023.08|[LG AI Research] LG Aimers 3기 Hackton|온라인 채널 제품판매량 예측 AI해커톤|ML,Time Series|상위 20%|<a href="https://github.com/Gayeon6423/Project/tree/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%B1%84%EB%84%90%20%EC%A0%9C%ED%92%88%ED%8C%90%EB%A7%A4%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%ED%95%B4%EC%BB%A4%ED%86%A4">Link</a>|
-|2023.07|[통계청] 2023년 통계데이터 활용대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한
-건설 경기 예측 모델 개선|Financial,ML,Data Analytics|참가|<a href="">Link</a>|
+|2023.07|[통계청] 2023년 통계데이터 활용대회|건설 경기의 미래를 바라보다: 통계 모형과 자연어 모형을 활용한 건설 경기 예측 모델 개선|Financial,ML,Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%EC%9D%98%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8B%A4%3A%20%ED%86%B5%EA%B3%84%20%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B1%B4%EC%84%A4%20%EA%B2%BD%EA%B8%B0%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EC%84%A0">Link</a>|
 |2023.07|[산업통상자원부] 제11회 공공데이터 활용 BI공모전|뉴스 기사 기반의 텍스트 모델과 자기회귀모형을 활용한 유망 국가-품목 그룹 추천 시스템|ML,Statistics, Data Analytics|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EB%89%B4%EC%8A%A4%20%EA%B8%B0%EC%82%AC%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%9E%90%EA%B8%B0%ED%9A%8C%EA%B7%80%EB%AA%A8%ED%98%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80-%ED%92%88%EB%AA%A9%20%EA%B7%B8%EB%A3%B9%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C">Link</a>|
 |2023.06|[딥러닝] 수업 프로젝트|객체 탐지와 경로 예측을 통한 실시간 충돌 예측 모델|DL, CV|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%EC%99%80%20%EA%B2%BD%EB%A1%9C%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%B6%A9%EB%8F%8C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8">Link</a>|
 |2023.07|[신한 AI Challenge] 대회|NLP를 활용한 산업분석 기반 다이렉트 인덱싱|ML, NLP|상위 20%|<a href="https://github.com/Gayeon6423/Project/tree/main/Direct-Indexing-Based-on-Industry-Analysis-Using-NLP">Link</a>|
@@ -100,6 +99,11 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |Paper Review|
 |:---:|
 |<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+## 📜 Published Paper
+|Paper Title|Date|Publication venue|Key Word|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|KIIE:Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="">Link</a>|
 
 <br>
 
