@@ -36,7 +36,7 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2023.08|LG AI Research|온라인 채널 제품판매량 예측 AI해커톤|Top 20%|
 |2023.07|산업통상자원부|공공데이터 활용 비즈니스 아이디어 공모전|참가|
 |2023.06|신한AI, 데이콘|보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회|Top 20%|
-|2022.08|Kookmin Univ|Undergraduate Research Program (UROP)|최우수상|
+|2022.08|국민대학교|Undergraduate Research Program (UROP)|최우수상|
 |2022.08|전북창조경제혁신센터|제2회 금융 데이터 활용 경진대회|본선 진출|
 |2022.07|금융보안원|FSI Data Challenge 2022|본선 진출|
 |2022.07|Kaggle|KML Challenge 2022F|Top 13%|
