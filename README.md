@@ -27,8 +27,6 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 |2020.03-2024.02| Kookmin University | Bachelor's Degree in AI Big Data Convergence Management |
 |2020.03-2024.02| Kookmin University | Bachelor's Degree in Economics |
 
-
-
 <br>
 
 ## 🛠 Tech Stack 🛠
@@ -36,20 +34,29 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
 
-
 - <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
+<br>
 
 ## 📜 Published Paper
 |Paper Title|Date|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Analysis Model and Time Series Forecasting Model|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
 
-<br>
 
 ## 📜 Paper Review 📜
 |Paper Review|
 |:---:|
 |<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+<br>
+
+## 🔍 Research 🔍
+|Date|Theme|Achievement|Link|
+|:---:|:---:|:---:|:---:|
+|2024.09-|Improvement of the Coreference Resolution through data augmentation based on LLM Adversarial filtering |연구 중|<a href="">Link</a>|
+|2024.01-|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|연구 중|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
+|2023.06-2023.12|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 
 
 <br>
@@ -72,14 +79,13 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 
 
 ## 👩‍💻 Project 👩‍💻
-|Date|Administration|Project|Tags|성과|Link|
+|Date|Administration|Project|Tags|Achievement|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.06|[기초자연어처리] 수업 프로젝트|Improvement of RAG performance by proposing a novel idea|NLP|Top 17%|<a href="https://github.com/Gayeon6423/Project/tree/main/Improvement%20of%20RAG%20performance%20by%20proposing%20a%20novel%20idea">Link</a>|
 |2024.06|[데이터마이닝] 수업 프로젝트|Predicting Daily Emotional Distribution and Mental Health Index via LLM and Further Transfer Learning|ML, NLP, Time Series|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/Predicting%20Daily%20Emotional%20Distribution%20and%20Mental%20Health%20Index%20via%20LLM%20and%20Further%20Transfer%20Learning">Link</a>|
 |2024.03~|[보건복지부] 연구 과제|국민 정신건강 트렌드 모니터링 관리 플랫폼 개발|ML,NLP,Medical|연구원|<a href="">Link</a>|
 |2024.02|[LG Research]LG Aimers 4기 Hackton|MQL 데이터 기반 B2B영업 기회 창출 예측 모델 개발|ML, Time Series|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/MQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20B2B%20%EC%98%81%EC%97%85%EA%B8%B0%ED%9A%8C%20%EC%B0%BD%EC%B6%9C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EB%B0%9C">Link</a>|
 |2024.01|[4차산업혁명 동아리 TAVE] 프로젝트|멀티모달 기반 이미지 캡셔닝|CV, NLP, DL|참가|<a href="https://github.com/Gayeon6423/TAVE-Image_Captioning/tree/main?tab=readme-ov-file">Link</a>|
-|2023.12|[논문 게재] JKIIE|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|Financial, DL, NLP|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 |2023.11|[데이터분석학회 D&A Conference Session]|주식 매매를 위한 Policy-based Reinforce Agent 개발|Financial, RL, DL|컨퍼런스 발표|<a href="https://github.com/Gayeon6423/KSPM_AI">Link</a>|
 |2023.10|[한국자원경제학회]제19회 논문경진대회|온실가스 데이터와 연계한 지역 간 제조업 자원 배분 효율성 분석|Economic,Statics|장려상|<a href="https://github.com/Gayeon6423/Project/tree/main/%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%A7%80%EC%97%AD%20%EA%B0%84%20%EC%A0%9C%EC%A1%B0%EC%97%85%20%EC%9E%90%EC%9B%90%20%EB%B0%B0%EB%B6%84%20%ED%9A%A8%EC%9C%A8%EC%84%B1%20%EB%B6%84%EC%84%9D">Link</a>|
 |2023.09|[과학기술정보통신부] 2023 빅콘테스트|상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용 방안 제시|Financial,ML,Data Analytics,Visualize|참가|<a href="https://github.com/Gayeon6423/2023BigContest">Link</a>|
