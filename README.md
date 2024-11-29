@@ -26,6 +26,19 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 
 - <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
+## 📜 Published Paper
+|Paper Title|Date|Publication venue|Key Word|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
+
+<br>
+
+## 📜 Paper Review
+|Paper Review|
+|:---:|
+|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
+
+
 <br>
 
 ## 🏆 Contest
@@ -42,20 +55,8 @@ I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing
 |2022.07|Kaggle|KML Challenge 2022F|Top 13%|
 |2022.06|Kaggle|ML Ensemble Competition|Top 32%|
 |2022.06|KB증권|디지털 Idea Market 공모전|참가|
-
 <br>
 
-## 📜 Paper Review
-|Paper Review|
-|:---:|
-|<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
-
-## 📜 Published Paper
-|Paper Title|Date|Publication venue|Key Word|Link|
-|:---:|:---:|:---:|:---:|:---:|
-|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
-
-<br>
 
 ## 👩‍💻 Project
 |Date|Administration|Project|Tags|성과|Link|
