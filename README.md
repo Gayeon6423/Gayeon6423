@@ -39,10 +39,10 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 <br>
 
 
-## 📜 Published Paper
-|Paper Title|Date|Publication venue|Key Word|Link|
+## 📜 Published Paper 📜
+Date||Paper Title|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
+|2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
 
 
 <br>
@@ -85,6 +85,11 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 
 <br>
 
+## 📜 Paper Review 📜
+
+- <a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Paper Review</a>
+
+<br>
 
 ## 👩‍💻 Project 👩‍💻
 <details>
@@ -125,31 +130,28 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
   |2021.08|[투자동아리 와이번] 프로젝트|기업 주가 가치 평가(벨류에이션)_송원산업|Financial|동아리 발표|<a href="https://github.com/Gayeon6423/Project/tree/main/%EA%B8%B0%EC%97%85%20%EC%A3%BC%EA%B0%80%20%EA%B0%80%EC%B9%98%20%ED%8F%89%EA%B0%80(%EB%B2%A8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98)_%EC%86%A1%EC%9B%90%EC%82%B0%EC%97%85">Link</a>|
   |2021.06|[금융감독원] 공모전|다문화 금융교육어플(멀티플)|Financial|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/%EB%8B%A4%EB%AC%B8%ED%99%94%20%EA%B8%88%EC%9C%B5%EA%B5%90%EC%9C%A1%EC%96%B4%ED%94%8C(%EB%A9%80%ED%8B%B0%ED%94%8C)">Link</a>|
 
-
 </details>
-
-
-<br>
-
-
-## 📜 Paper Review 📜
-
-- <a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Paper Review</a>
 
 <br>
 
 
 ## 📚 Study 📚
-|Date|Content|Tags|Study Method|Link|
-|:---:|:---:|:---:|:---:|:---:|
-|2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://necessary-court-22a.notion.site/6a4af02386d9499e80e6f7e6bf528037?pvs=4">Link</a>|
-|2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
-|2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://necessary-court-22a.notion.site/Computer-Vision-86e3442001824bc5847d5cf9b9622838?pvs=4">Link</a>|
-|2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://necessary-court-22a.notion.site/SQL-90f2346cdf1d4b1184cc5f36bad3e30f?pvs=4">Link</a>|
-|2023|FIND-A 알고리즘 스터디|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://necessary-court-22a.notion.site/FIND-A-8a3a49f046aa4b2eb093dcf22213843f?pvs=4">Link</a>|
-|2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://necessary-court-22a.notion.site/9a71db4771c34c258f36a195909e34a4?pvs=4">Link</a>|
-|2023|LG Aimers 3기|ML,DL|AI Essential Course|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
-|2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
-|2022|HandOn_Machine Learning|ML|‘핸즈온 머신러닝’교재, 스터디|<a href="https://necessary-court-22a.notion.site/Handson_Machine-Learning-133630eb846e4271b1b2c4bdb2ce1523?pvs=4">Link</a>|
+<details>
+  <summary><b> Study List </b></summary>
+  
+  |Date|Content|Tags|Study Method|Link|
+  |:---:|:---:|:---:|:---:|:---:|
+  |2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://necessary-court-22a.notion.site/6a4af02386d9499e80e6f7e6bf528037?pvs=4">Link</a>|
+  |2023|딥러닝 기본 이론|DL|‘밑바닥부터시작하는 딥러닝’ 교재, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://www.notion.so/ec444ef8a57b4836904626732f03ef6a?pvs=4">Link</a>|
+  |2023|Computer Vision|CV|‘딥러닝’ 수업내용, ‘파이썬 딥러닝 파이토치’ 교재|<a href="https://necessary-court-22a.notion.site/Computer-Vision-86e3442001824bc5847d5cf9b9622838?pvs=4">Link</a>|
+  |2023|모두의 SQL|SQL|‘모두의 SQL’교재, ‘FIND-A’ SQL 스터디|<a href="https://necessary-court-22a.notion.site/SQL-90f2346cdf1d4b1184cc5f36bad3e30f?pvs=4">Link</a>|
+  |2023|FIND-A 알고리즘 스터디|ALOGORITHSM|‘FIND-A’ 알고리즘 스터디|<a href="https://necessary-court-22a.notion.site/FIND-A-8a3a49f046aa4b2eb093dcf22213843f?pvs=4">Link</a>|
+  |2023|파이썬과 함께하는 자료구조의 이해|ALGORIITHSM|‘파이썬과 함께하는 자료구조의 이해’교재, ‘데이터구조와알고리즘’ 수업|<a href="https://necessary-court-22a.notion.site/9a71db4771c34c258f36a195909e34a4?pvs=4">Link</a>|
+  |2023|LG Aimers 3기|ML,DL|AI Essential Course|<a href="https://necessary-court-22a.notion.site/LG-Aimers-3-0882c90736bb4d32b0c8b7896d9c4039?pvs=4">Link</a>|
+  |2023|자연어처리|NLP|‘밑바닥부터시작하는 딥러닝2’ 교재|<a href="https://necessary-court-22a.notion.site/2-582c2f0dbaba4f58b4d065dbb9694d25?pvs=4">Link</a>|
+  |2022|HandOn_Machine Learning|ML|‘핸즈온 머신러닝’교재, 스터디|<a href="https://necessary-court-22a.notion.site/Handson_Machine-Learning-133630eb846e4271b1b2c4bdb2ce1523?pvs=4">Link</a>|
+
+</details>
+
 
 <br>
