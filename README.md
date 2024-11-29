@@ -1,13 +1,9 @@
 ## Hi there 😊👋
 Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist 🔥🔥**
 
-I obtained a bachelor's degree in department of **Economics** and **AI BigData & Management** at Kookmin University in February 2024.
-
-I'm currently pursuing a masters' degree in the department of **Artificial Intelligence** at Sogang University, and am expected to graduate in February 2026.
-
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
-I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering**.
+I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGayeon6423%2Fhit-counter)](https://hits.seeyoufarm.com)           
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
@@ -17,6 +13,23 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 ## ✨ Profile ✨
 - [![Naver Blog Badge](https://img.shields.io/badge/-Naver%20Blog-green?style=flat-square&logo=naver&link=https://blog.naver.com/your_naver_blog_username)](https://blog.naver.com/gayeon6423) [![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=notion&link=https://www.notion.so/your_notion_page)](https://www.notion.so/Gayeon-Jung-s-Portfolio-04d540cec5da4e729b953f4d0e82b2ed?pvs=4)
 - [![Email Badge](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:gayeon6423@naver.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/Gayeon6423) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/)](https://www.instagram.com/ga_yeon_jung/)
+
+<br>
+
+## 💼 Career 💼
+|Date|Administration|Career|
+|:---:|:---:|:---:|
+|2024.03-| Sogang University | Master's Degree in Artificial Intelligence |
+|2024.01-| Machine Learning Research Laboratory | Researcher |
+|2024.01-| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
+|2022.09-2024.02| SSK | Student Researcher on Narrative Analysis of Climate Change Crisis and the Future of Korea |
+|2022.06-2023.01| Bank of Korea | Student Researcher for BOK-KPP Sri Lanka Policy Advisory |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in AI Big Data Convergence Management |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in Economics |
+
+
+
+<br>
 
 ## 🛠 Tech Stack 🛠
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> 
@@ -33,7 +46,7 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 
 <br>
 
-## 📜 Paper Review
+## 📜 Paper Review 📜
 |Paper Review|
 |:---:|
 |<a href="https://necessary-court-22a.notion.site/Papers-Review-33600ab210634c85bbae1446862e321f?pvs=4">Link</a>|
@@ -41,7 +54,7 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 
 <br>
 
-## 🏆 Contest
+## 🏆 Contest 🏆
 |Date|Administration|Contest Name|Award|
 |:---:|:---:|:---:|:---:|
 |2023.10|한국자원경제학회|제19회 논문경진대회|장려상|
@@ -58,7 +71,7 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 <br>
 
 
-## 👩‍💻 Project
+## 👩‍💻 Project 👩‍💻
 |Date|Administration|Project|Tags|성과|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.06|[기초자연어처리] 수업 프로젝트|Improvement of RAG performance by proposing a novel idea|NLP|Top 17%|<a href="https://github.com/Gayeon6423/Project/tree/main/Improvement%20of%20RAG%20performance%20by%20proposing%20a%20novel%20idea">Link</a>|
@@ -98,7 +111,7 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 
 <br>
 
-## 📃 Certificate & Language
+## 📃 Certificate & Language 📃
 |Date|Name|Administration| 
 |:---:|:---:|:---:|
 |2024|Toeic Speaking - IH|한국 TOEIC 위원회|
@@ -109,7 +122,7 @@ I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering
 
 <br>
 
-## 📚 Study
+## 📚 Study 📚
 |Date|Content|Tags|Study Method|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |2023|머신러닝 WikiDocs 제작|ML|WikiDocs활용한 개념 정리 스터디|<a href="https://necessary-court-22a.notion.site/6a4af02386d9499e80e6f7e6bf528037?pvs=4">Link</a>|
