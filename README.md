@@ -42,7 +42,7 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 ## 📜 Published Paper
 |Paper Title|Date|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|금융 특화 감정분석 모델과 시계열 예측 모델을 활용한 코스피 지수 예측|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
+|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Analysis Model and Time Series Forecasting Model|2024.08|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
 
 <br>
 
