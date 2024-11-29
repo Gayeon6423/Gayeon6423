@@ -7,7 +7,7 @@ I'm currently pursuing a masters' degree in the department of **Artificial Intel
 
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
-I'm interestid in **Time Series Forecasting** , **Natural Language Preprocessing** , **Financial Engineering**.
+I'm interestid in ****Natural Language Preprocessing** , **Financial Engineering**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGayeon6423%2Fhit-counter)](https://hits.seeyoufarm.com)           
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
