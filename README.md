@@ -50,7 +50,7 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 ## 🔍 Research 🔍
 |Date|Theme|Achievement|Link|
 |:---:|:---:|:---:|:---:|
-|2024.09-|Improvement of the Coreference Resolution through data augmentation based on LLM Adversarial filtering |연구 중|<a href="">Link</a>|
+|2024.09-|Improvement of the Coreference Resolution through data augmentation based on LLM Adversarial filtering |논문 심사 중|<a href="">Link</a>|
 |2024.07-|Prompt Engineering-Based Generate Economic/Financial Newsletter |연구 중|<a href="">Link</a>|
 |2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|종료|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
 |2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
