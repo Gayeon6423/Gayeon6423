@@ -52,7 +52,7 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 |2024.09-|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |연구 중|<a href="">Link</a>|
 |2024.09-|Coreference Resolution 모델 성능 개선을 위한 LLM기반 데이터 증강 파이프라인 구축 |연구 중|<a href="">Link</a>|
 |2024.07-|Prompt Engineering-Based Generate Economic/Financial Newsletter |연구 중|<a href="">Link</a>|
-|2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|종료|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
+|2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|연구 종료|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
 |2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 
 
