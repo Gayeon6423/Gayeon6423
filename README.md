@@ -1,5 +1,5 @@
 ## Hi there 😊👋
-Hello, I'm Gayeon Jung. I'm growing up as a *AI Engineer🔥🔥**
+Hello, I'm Gayeon Jung. I'm growing up as a **AI Engineer🔥🔥**
 
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
