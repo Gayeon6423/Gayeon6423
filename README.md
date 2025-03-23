@@ -20,8 +20,36 @@ I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95427?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
+- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
-- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor중|<a href="">Link</a>|
+<br>
+
+## 💼 Career 💼
+|Date|Administration|Career|
+|:---:|:---:|:---:|
+|2024.03-| Sogang University | Master's Degree in Artificial Intelligence |
+|2024.01-| Machine Learning Research Laboratory | Researcher |
+|2024.01-| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
+|2022.09-2024.02| SSK | Student Researcher on Narrative Analysis of Climate Change Crisis and the Future of Korea |
+|2022.06-2023.01| Bank of Korea | Student Researcher for BOK-KPP Sri Lanka Policy Advisory |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in AI Big Data Convergence Management |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in Economics |
+
+<br>
+
+
+## 📜 Published Paper 📜
+|Date|Paper Title|Publication venue|Key Word|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
+
+
+<br>
+
+## 🔍 Research 🔍
+|Date|Theme|Achievement|Link|
+|:---:|:---:|:---:|:---:|
+|2024.09-|Coreference Resolution 모델 성능 개선을 위한 데이터 증강 파이프라인 구축 |연구 중|<a href="">Link</a>|
 |2024.07-|Prompt Engineering-Based Generate Economic/Financial Newsletter |연구 중|<a href="">Link</a>|
 |2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|종료|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
 |2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
