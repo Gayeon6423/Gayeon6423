@@ -1,9 +1,9 @@
 ## Hi there 😊👋
-Hello, I'm Gayeon Jung. I'm growing up as a **Data Scientist 🔥🔥**
+Hello, I'm Gayeon Jung. I'm growing up as a *AI Engineer🔥🔥**
 
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
-I'm interestid in **Deep Learning**, and **Natural Language Preprocessing**.
+I'm interestid in **NLP**, **Multi Modal**, and **Data Augmentation**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGayeon6423%2Fhit-counter)](https://hits.seeyoufarm.com)           
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
