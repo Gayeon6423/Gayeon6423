@@ -46,11 +46,11 @@ I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Fi
 <br>
 
 ## 🔍 Research 🔍
-|Date|Theme|Achievement|Link|
-|:---:|:---:|:---:|:---:|
-|2024.09-2025.03|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
-|2024.09-2025.06|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|<a href="">Link</a>|
-|2024.03-2024.12|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |<a href="">Link</a>|
+|Date|Theme|Link|
+|:---:|:---:|:---:|
+|2024.09-2025.03|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |<a href="">Link</a>|
+|2024.03-2024.12|Improving Coreference Resolution through Prompting-based Adversarial Filtering and Data Augmentation|<a href="">Link</a>|
+|2024.06-2024.12|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
 |2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
 |2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 
