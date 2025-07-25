@@ -3,7 +3,7 @@ Hello, I'm Gayeon Jung. I'm growing up as a **AI Engineer🔥🔥**
 
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
-I'm interestid in **NLP**, **Multi Modal**, and **Data Augmentation**.
+I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Financial AI**.
      
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
 
@@ -48,11 +48,11 @@ I'm interestid in **NLP**, **Multi Modal**, and **Data Augmentation**.
 ## 🔍 Research 🔍
 |Date|Theme|Achievement|Link|
 |:---:|:---:|:---:|:---:|
-|2024.09-|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |연구 중|<a href="">Link</a>|
-|2024.09-|Coreference Resolution 모델 성능 개선을 위한 LLM기반 데이터 증강 파이프라인 구축 |연구 중|<a href="">Link</a>|
-|2024.07-|Prompt Engineering-Based Generate Economic/Financial Newsletter |연구 중|<a href="">Link</a>|
-|2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|연구 종료|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
-|2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|논문 게재|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
+|2024.09-2025.03|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
+|2024.09-2025.06|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|<a href="">Link</a>|
+|2024.03-2024.12|Text-to-Image 모델 성능 개선을 위한 CLIP기반 데이터 증강 파이프라인 구축 |<a href="">Link</a>|
+|2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
+|2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 
 
 <br>
