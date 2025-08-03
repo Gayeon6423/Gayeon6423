@@ -10,7 +10,7 @@ I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Fi
 <br>
 
 ## ✨ Profile ✨
-- [![Naver Blog Badge](https://img.shields.io/badge/-Naver%20Blog-green?style=flat-square&logo=naver&link=https://blog.naver.com/your_naver_blog_username)](https://blog.naver.com/gayeon6423) [![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=notion&link=https://www.notion.so/your_notion_page)](https://www.notion.so/Gayeon-Jung-s-Portfolio-04d540cec5da4e729b953f4d0e82b2ed?pvs=4)
+- [![Naver Blog Badge](https://img.shields.io/badge/-Naver%20Blog-green?style=flat-square&logo=naver&link=https://blog.naver.com/your_naver_blog_username)](https://blog.naver.com/gayeon6423) 
 - [![Email Badge](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:gayeon6423@naver.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/Gayeon6423) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/)](https://www.instagram.com/ga_yeon_jung/)
 
 <br>
