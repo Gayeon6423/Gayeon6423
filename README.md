@@ -71,6 +71,7 @@ I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Fi
 |2022.07|Kaggle|KML Challenge 2022F|Top 13%|
 |2022.06|Kaggle|ML Ensemble Competition|Top 32%|
 |2022.06|KB증권|디지털 Idea Market 공모전|참가|
+|2022.02|한국장학재단|교육 재능 봉사 및 UCC 공모전|우수상|
 <br>
 
 
