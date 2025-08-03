@@ -23,16 +23,22 @@ I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Fi
 
 <br>
 
+## 🏫 Education 🏫
+|Date|Administration|Department|
+|:---:|:---:|:---:|
+|2024.03-2026.02| Sogang University | Master's Degree in Artificial Intelligence |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in AI Big Data Convergence Management |
+|2020.03-2024.02| Kookmin University | Bachelor's Degree in Economics |
+
+<br>
+
 ## 💼 Career 💼
 |Date|Administration|Career|
 |:---:|:---:|:---:|
-|2024.03-| Sogang University | Master's Degree in Artificial Intelligence |
 |2024.01-| Machine Learning Research Laboratory | Researcher |
-|2024.01-| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
+|2024.01-2025.02| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
 |2022.09-2024.02| SSK | Student Researcher on Narrative Analysis of Climate Change Crisis and the Future of Korea |
 |2022.06-2023.01| Bank of Korea | Student Researcher for BOK-KPP Sri Lanka Policy Advisory |
-|2020.03-2024.02| Kookmin University | Bachelor's Degree in AI Big Data Convergence Management |
-|2020.03-2024.02| Kookmin University | Bachelor's Degree in Economics |
 
 <br>
 
