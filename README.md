@@ -46,7 +46,7 @@ I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Fi
 ## 📜 Published Paper 📜
 |Date|Paper Title|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|Poster presentation at KCC 2025 (Korean Computer Congress)|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
+|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|Poster presentation at KCC 2025|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
 |2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://jkiie.org/_PR/view/?aidx=41593&bidx=3767#!po=5.55556">Link</a>|
 
 
