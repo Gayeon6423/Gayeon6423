@@ -46,7 +46,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 📜 Published Paper 📜
 |Date|Paper Title|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|KIISE:Korean Institute of Information Scientists and Engineers|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://url-shortener.me/5X93">Link</a>,<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
+|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|KIISE:Korean Institute of Information Scientists and Engineers|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://url-shortener.me/5X93">Link</a>,  <a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
 |2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>, <a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
 
 
