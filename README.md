@@ -85,10 +85,10 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 📃 Certificate & Language 📃
 |Date|Name|Administration| 
 |:---:|:---:|:---:|
+|2025.09|정보처리기사|한국산업인력공단|
 |2024.09|Toeic Speaking - IH|한국 TOEIC 위원회|
 |2023.03|SQL 개발자(SQLD)|한국데이터산업진흥원|
 |2023.02|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|
-|2023.02|Toeic - 750|한국 TOEIC 위원회|
 |2022.10|컴퓨터활용능력 1급|대한상공회의소|
 |2021.05|회계관리 2급|삼일회계법인|
 
