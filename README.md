@@ -3,7 +3,7 @@ Hello, I'm Gayeon Jung. I'm growing up as a **AI Engineer🔥🔥**
 
 I'm working as a research assistant in the **Machine Learning Research Laboratory** at Sogang University. 
 
-I'm interestid in **NLP**, **Data Augmentation**, **MultiModal GenAI**, and **Financial AI**.
+I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Financial AI**.
      
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
 
