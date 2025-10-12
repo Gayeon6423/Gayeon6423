@@ -106,6 +106,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 
   |Date|Administration|Project|Tags|Achievement|Link|
   |:---:|:---:|:---:|:---:|:---:|:---:|
+  |2025.10|[Meta Llama Academy] LLM Agent & On-device AI Workshop|Doc-to-RAG-Benchmark| NLP|수료|<a href="https://github.com/Gayeon6423/Project/blob/main/Doc-to-RAG-Benchmark">Link</a>|
   |2024.06|[기초자연어처리] 수업 프로젝트|Improvement of RAG performance by proposing a novel idea| NLP|Top 17%| [Link](https://github.com/Gayeon6423/Project/tree/main/Improvement%20of%20RAG%20performance%20by%20proposing%20a%20novel%20idea)|
   |2024.06|[데이터마이닝] 수업 프로젝트|Predicting Daily Emotional Distribution and Mental Health Index via LLM and Further Transfer Learning|ML, NLP, Time Series|A+|<a href="https://github.com/Gayeon6423/Project/tree/main/Predicting%20Daily%20Emotional%20Distribution%20and%20Mental%20Health%20Index%20via%20LLM%20and%20Further%20Transfer%20Learning">Link</a>|
   |2024.02|[LG Research]LG Aimers 4기 Hackton|MQL 데이터 기반 B2B영업 기회 창출 예측 모델 개발|ML, Time Series|참가|<a href="https://github.com/Gayeon6423/Project/tree/main/MQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20B2B%20%EC%98%81%EC%97%85%EA%B8%B0%ED%9A%8C%20%EC%B0%BD%EC%B6%9C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EB%B0%9C">Link</a>|
