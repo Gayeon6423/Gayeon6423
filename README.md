@@ -57,7 +57,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 |Date|Theme|Link|
 |:---:|:---:|:---:|
 |2024.09-2025.03|Fashion Image Generation Model with Augmented instructions|<a href="">Link</a>|
-|2024.03-2025.03|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|IJCNLP-AACL:International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics|LLM,Coreference Resolution,Adversarial Filtering|<a href="">Link</a>|
+|2024.03-2025.03|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|<a href="">Link</a>|
 |2024.06-2024.12|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
 |2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
 |2023.06-2023.12|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|<a href="https://github.com/Gayeon6423/BusinessAI-Capston">Link</a>|
