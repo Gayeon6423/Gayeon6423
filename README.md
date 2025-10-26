@@ -46,8 +46,8 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 📜 Published Paper 📜
 |Date|Paper Title|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2025.12|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|IJCNLP-AACL:International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics|LLM,Coreference Resolution,Adversarial Filtering|<a href="">Link</a>|
-|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|KIISE:Korean Institute of Information Scientists and Engineers|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://url-shortener.me/5X93">Link</a>|
+|2025.12|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|IJCNLP-AACL:International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics|LLM,Coreference Resolution,Adversarial Filtering|<a href="https://openreview.net/forum?id=eln3xHNf4T&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FAACL-IJCNLP%2F2025%2FARR_Commitment%2FAuthors%23your-submissions)">Link</a>|
+|2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|KIISE:Korean Institute of Information Scientists and Engineers|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318436">Link</a>|
 |2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>|
 
 
