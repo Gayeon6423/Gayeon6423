@@ -69,16 +69,13 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 |Date|Administration|Contest Name|Award|
 |:---:|:---:|:---:|:---:|
 |2023.10|한국자원경제학회|제19회 논문경진대회|장려상|
-|2023.09|과학기술정보통신부|2023빅콘테스트|참가|
 |2023.08|LG AI Research|온라인 채널 제품판매량 예측 AI해커톤|Top 20%|
-|2023.07|산업통상자원부|공공데이터 활용 비즈니스 아이디어 공모전|참가|
 |2023.06|신한AI, 데이콘|보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회|Top 20%|
 |2022.08|국민대학교|Undergraduate Research Program (UROP)|최우수상|
 |2022.08|전북창조경제혁신센터|제2회 금융 데이터 활용 경진대회|본선 진출|
 |2022.07|금융보안원|FSI Data Challenge 2022|본선 진출|
 |2022.07|Kaggle|KML Challenge 2022F|Top 13%|
 |2022.06|Kaggle|ML Ensemble Competition|Top 32%|
-|2022.06|KB증권|디지털 Idea Market 공모전|참가|
 |2022.02|한국장학재단|교육 재능 봉사 및 UCC 공모전|우수상|
 <br>
 
