@@ -5,8 +5,6 @@ I'm working as a AI Engineer in the **AI plaftform team** at KIS.
 
 I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Financial AI**.
      
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gayeon6423)](https://solved.ac/gayeon6423)
-
 <br>
 
 ## ✨ Profile ✨
