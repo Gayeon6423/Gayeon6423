@@ -33,7 +33,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 💼 Career 💼
 |Date|Administration|Career|
 |:---:|:---:|:---:|
-|2025.12-| MKorea Investment & Securities AI Data Innovation Department | AI Engineer |
+|2025.12-| Korea Investment & Securities AI Data Innovation Department | AI Engineer |
 |2024.01-2025.12| Machine Learning Research Laboratory | Researcher |
 |2024.01-2025.02| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
 |2022.09-2024.02| SSK | Student Researcher on Narrative Analysis of Climate Change Crisis and the Future of Korea |
