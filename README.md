@@ -33,6 +33,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 💼 Career 💼
 |Date|Administration|Career|
 |:---:|:---:|:---:|
+|2025.12-| MKorea Investment & Securities AI Data Innovation Department | AI Engineer |
 |2024.01-2025.12| Machine Learning Research Laboratory | Researcher |
 |2024.01-2025.02| Ministry of Health and Welfare | Researcher for the Development of a National Mental Health Trend Monitoring and Management Platform |
 |2022.09-2024.02| SSK | Student Researcher on Narrative Analysis of Climate Change Crisis and the Future of Korea |
@@ -44,7 +45,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 📜 Published Paper 📜
 |Date|Paper Title|Publication venue|Key Word|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2026.03|FIGMA: Efficient Instruction-Guided Adaptation of Multimodal Foundation Models via Automated Data Augmentation|PAKDD|FoundationModels,EfficientAdaptation,MultimodalLearning,LoRA,Data Augmentation|<a href="">Link</a>|
+|2026.03|FIGMA: Efficient Instruction-Guided Adaptation of Multimodal Foundation Models via Automated Data Augmentation|PAKDD|FoundationModels,EfficientAdaptation,MultimodalLearning,LoRA,Data Augmentation|<a href="https://link.springer.com/chapter/10.1007/978-981-92-2014-4_37">Link</a>|
 |2025.12|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|IJCNLP-AACL:International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics|LLM,Coreference Resolution,Adversarial Filtering|<a href="https://aclanthology.org/2025.findings-ijcnlp.56/">Link</a>|
 |2025.07|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|KIISE:Korean Institute of Information Scientists and Engineers|Domain Adaption, Pseudo Labeling, Data Augmentation|<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318436">Link</a>|
 |2024.08|Prediction of the KOSPI Index Using a Finance-Specialized Sentiment Model and Time Series Forecasting|JKIIE:Journal of the Korean Institute of Industrial Engineers|Deep Learning, BERT, Sentiment Analysis, LSTM, Kospi Index Prediction|<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079">Link</a>|
@@ -55,7 +56,7 @@ I'm interestid in **NLP**, **Domain Adaptation**, **MultiModal GenAI**, and **Fi
 ## 🔍 Research 🔍
 |Date|Theme|Link|
 |:---:|:---:|:---:|
-|2024.09-2025.03|Fashion Image Generation Model with Augmented instructions|<a href="">Link</a>|
+|2024.09-2025.03|Fashion Image Generation Model with Augmented instructions|<a href="https://link.springer.com/chapter/10.1007/978-981-92-2014-4_37">Link</a>|
 |2024.03-2025.03|Enhancing Coreference Resolution with LLM-driven Data Augmentation and Adversarial Filtering|<a href="">Link</a>|
 |2024.06-2024.12|Domain-Adaptive Emotion Classification Model Using Pseudo Labeling and LLM-Based Labeling|<a href="https://github.com/Gayeon6423/Domain-Adaptive-Emotion-Classification-Model-Using-Pseudo-Labeling-and-LLM-Based-Labeling">Link</a>|
 |2024.01-2025.02|Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform|<a href="https://github.com/Gayeon6423/Development-of-National-Mental-Health-Trend-Monitoring-and-Management-Platform">Link</a>|
